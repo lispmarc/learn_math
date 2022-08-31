@@ -1,0 +1,4 @@
+mathplot==0.1
+matplot==0.1.9
+matplotlib==3.5.2
+matplotlib-inline==0.1.3

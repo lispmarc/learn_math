@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/learn_math/__init__.py
+src/learn_math/waves.py
+src/learn_math/waves_plot.py
+src/learn_math.egg-info/PKG-INFO
+src/learn_math.egg-info/SOURCES.txt
+src/learn_math.egg-info/dependency_links.txt
+src/learn_math.egg-info/top_level.txt

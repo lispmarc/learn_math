@@ -1,0 +1,9 @@
+#
+# Contains the patterns of directories and files that 
+# are ignored if you use git
+# git repositories should contain only source files not 
+# generated data
+#
+
+# ignore py_cache
+__pycache__
